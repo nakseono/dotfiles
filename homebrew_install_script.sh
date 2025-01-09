@@ -38,4 +38,4 @@ echo "2. Hide the icon."
 echo "3. Go to System Preferences > Control Center > Clock and set it to Analog."
 
 # 설치 완료 메시지
-echo "All applications have been installed. Some may require additional configuration."
+echo "설치 완료. 하나하나 켜보길 바람."
